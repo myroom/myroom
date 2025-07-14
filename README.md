@@ -54,3 +54,9 @@ I actively work with:
 ![Zigbee2MQTT](https://img.shields.io/badge/-Zigbee2MQTT-000?&logo=zigbee)
 ![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-000?&logo=home-assistant)
 ![LoRa](https://img.shields.io/badge/-LoRa/433MHz-000?&logo=radio)
+
+### My GitHub stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=myroom&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+---
